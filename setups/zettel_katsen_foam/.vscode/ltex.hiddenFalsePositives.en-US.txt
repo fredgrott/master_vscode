@@ -1,0 +1,174 @@
+{"rule":"THREE_NN","sentence":"^\\QAttention deficit disorder is a mixture of dysfunction in the norepinephrine and dopamine pathways.\\E$"}
+{"rule":"WANT","sentence":"^\\QDAT, dopamine transporter\nDRD4, dopamine receptor 4\nDRD5, dopamine receptor 5\nTAAR1, trace amine associated receptor which is found in brain astrocytes\nMAOA, monoamine oxidase A which breaks up dopamine, norepinephrine, and serotonin\nCOMT, catechol-o-methyltransferase breaks down dopamine, epinephrine, and norepinephrine\nDBH, dopamine beta-hydroxylase converts dopamine to norepinephrine\nSERT, serotonin transporter\nHTR1B, 5-hydroxytryptamine receptor 1B in the frontal cortex inhibits dopamine and in the basal ganglia inhibits serotonin\nSNAP25, protein involved in how the neurotransmitter vesicle forms with the neuron wall to release neuron transmitters into the cleft\nGRIN2A, glutamate receptor which is also an N-methyl-D-aspartate receptor(NMDA)\nADRA2A, alpha-2A adrenergic receptor\nTPH2, tryptophan hydroxylase 2 which is rate limiting enzyme in the synthesis of serotonin\nBDNF, is the brain-derived neurotrophic factor abrineurin protein\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAccording to Dr Amen's findings of 7 types of ADHD; serotonin, glutamine, and GABA are also involved.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAnd that also contributes to the ease of using macros; as a macro no matter what programming language is being used can simply be a markdown template plugged into VSCode's way of inserting and expressing code snippets.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QTypically, the settings are placed in the lower workbench.colorCustomizations section past the Theme settings block.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QVSCode\nUI Customization\nVSCode Icons\nPeacock outer UI color changes\nTokyo Night UI Theme\nCode and Text\nIntelliCode and IntelliCode Completions\nLtex spelling\nAuto Save\nBetter Comments\nPrettier\nTo-do Tree\nTo-do Highlighting\nErrorLens\nWord Count\nCharacter Count\nSecond Brain\nFoam\nMarkdown Links graph\nMarkdown Extended\nMarkdown All In One\nMarkdown Accessories\nMarkdown Lint\nMarkdown Preview GitHub Styles\nGitHub Markdown Preview\nMarkdown Preview Mermaid\nMarkdown YAML Preamble\nMarkdown Sub\nRead Time\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QVSCode\nUI Customization\nVSCode Icons\nPeacock outer UI color changes\nTokyo Night UI Theme\nCode and Text\nIntelliCode and IntelliCode Completions\nLtex spelling\nAuto Save\nBetter Comments\nPrettier\nTo-do Tree\nTo-do Highlighting\nErrorLens\nWord Count\nCharacter Count\nSecond Brain\nFoam\nMarkdown Links graph\nMarkdown Extended\nMarkdown All In One\nMarkdown Accessories\nMarkdown Lint\nMarkdown Preview GitHub Styles\nGitHub Markdown Preview\nMarkdown Preview Mermaid\nMarkdown YAML Preamble\nMarkdown Sub\nRead Time\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QVSCode includes a git-core integrating git commends with the full IDE operations.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QWe can do that by using a private vscode workspace to set up our own knowledge management note-taking system and project management system.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QIn the next section I will detail how to set up a Zettelkasten knowledge management system along with anki-note decks and a kanban board project management system.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QWorkspace VSCode dot-folder Dot-folder\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QIn the next section, I will detail how to set up a Zettelkasten knowledge management system along with anki-note decks and a kanban board project management system.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QCommand Panel where we access all the commands commands\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QFoam\nAnki\nKanban Project Boards\nUI Customization\nMarkdown Core\nFlutter Plugins\nDart And Flutter\nFlutter Insider\nFlutter Stylizer\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QInstead, I have to control and choose what our metaobjects that we form from those language models is put into in the form of silos.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QInstead, I have to control and choose what our metaobjects that we form from those language models is put into in the form of silos.\\E$"}
+{"rule":"A_NNS","sentence":"^\\QAnd typically, a vscode dot-folder in the workspace contains:\nAn extensions JSON file\nA launch JSON file\nA settings JSON file\nA task JSON file\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe Flash cards are made using Markdown, and thus my Anki VSCode settings are:\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThen the 'peacock.elementAdjustments' tells the plugin which of those outer UI parts the color change are applied to.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QThen, I specify some favorite colors to use for instance when I have my note workspace open in one VSCode instance and have another VSCode instance open with a flutter app project workspace.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThen the 'peacock.elementAdjustments' tells the plugin which of those outer UI parts the color change is applied to.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMarkdown Preview GitHub Styling https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMarkdown Preview GitHub Styling https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMarkdown Preview GitHub Styling https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles\\E$"}
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QK, In fact it now reuses the built in markdown viewer.\\E$"}
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QK, In fact, it now reuses the built-in markdown viewer.\\E$"}
+{"rule":"ARROWS","sentence":"^\\QAdds Superscript (29^th^ => 29th) support to VS Code Markdown preview.\\E$"}
+{"rule":"AGREEMENT_SENT_START","sentence":"^\\QThe settings for Markdown Links sets how the mind map graph will be displayed.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QErrorLens turbocharges language diagnostic features by making diagnostics stand out more prominently, highlighting the entire line wherever a diagnostic is generated by the language, and also prints the message inline.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QA user-friendly plugin to help you work with ARGB Color in VS Code, for any project.\\E$"}
+{"rule":"DOWN_SIDE","sentence":"^\\QSetting Up Side Panel And Outline Map\\E$"}
+{"rule":"WORD_CONTAINS_UNDERSCORE","sentence":"^\\QThe '$FOAM_DATE_SECONDS_UNIX' uses Unix seconds to form a unique file name.\\E$"}
+{"rule":"AUXILIARY_DO_WITH_INCORRECT_VERB_FORM","sentence":"^\\QWhat that does is autofill the YAML front matter with some specific entries.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QHow that translates to choosing an IDE is that we want the maximum amount of UI customization of the IDE to fine-tune our own application development workflow.\\E$"}
+{"rule":"PREPOSITION_VERB","sentence":"^\\QIn the command-palette search input box, type flutter and then choose the create flutter project.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe command palette is found at the top center of the title bar of VSCode.\\E$"}
+{"rule":"PREPOSITION_VERB","sentence":"^\\QIn the command-palette search input box, type flutter and then choose the create flutter project.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe launch JSON file is how the debugger is configured.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QWorkspaces\nWorkspaces are your project folders.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe other edition is called the VSCode Insiders edition.\\E$"}
+{"rule":"TO_DO_HYPHEN","sentence":"^\\QToDo Highlight V2\nA plugin to highlight todos.\\E$"}
+{"rule":"TO_DO_HYPHEN","sentence":"^\\QToDo Highlight V2\nA plugin to highlight todos.\\E$"}
+{"rule":"PREPOSITION_VERB","sentence":"^\\QThe analyze task:\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QThe layout editor icon is found on the titlebar toolbar and is the right most icon before the minimize icon.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe layout editor icon is found on the titlebar toolbar and is the right most icon before the minimize icon.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QNow, let me explain the IDE engine part and what edition you should use.\\E$"}
+{"rule":"PASSED_PAST","sentence":"^\\QOkay, let me let you in how computer science gets passed on down to the lower levels of development.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QCore VSCode Plugins To Use\nIn project workspaces, a single root workspace is represented by a vscode dot folder whereas a multiple root workspace has a code-workspace dot folder.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QMy better comments settings are customized to:\\E$"}
+{"rule":"NNS_THAT_VBZ","sentence":"^\\QThoughts\nThat is my opinionated VSCode set up including the best VSCode plugins and all the plugin settings, launch and task settings.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QWhich of course is not really highlighted in the flutter docs.\\E$"}
+{"rule":"SENTENCE_FRAGMENT","sentence":"^\\QWhich of course is not really highlighted in the flutter docs.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QThen there is an edition that can be used with the riverpod widget dependency injection:\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QThan there is a provider edition that can be used with widget dependency injection called provider:\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QIn full context of both OOP and FP patterns, these special observers called listeners are called non-computable observers and the immutable data FP observers are called computable observers.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QThoughts\nMastering flutter state management is never directly about the model dependency injection, but instead starting out with Notifiers and mutable data and moving towards immutable data and full FP concepts of computable observers in small enough steps that is reachable to all flutter developers.\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QIt uses the Material Color Utilities definition of the HCT color space to compute the new color scheme.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QWhat that will mean is if we use a different library to generate the color scheme such as Flex Color Scheme we will have to grab the primary of the dynamic color scheme from android and use it to shift the seed colors as then we will have Flex Color Scheme way of doing color scheme and tones rather than the MD3 hardwired way across all devices.\\E$"}
+{"rule":"SPURIOUS_APOSTROPHE","sentence":"^\\QA lot of GDE's will show Built Value, Freezed, or Equatable but stop at the other parts of value type objects.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QUpcoming, is describing how the rest of the domain layer is implemented such as the application services which are use cases, repositories, and datasources.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QIn this article, we will use some simple Dart OOP to create a value object that uses Equatable to make it an immutable value type and at the same time form a good general purpose validation set of objects for various input types.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QFor example, money is usually implemented as a value type object.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QThe whole idea of using the Catcher plugin is to make it easier to do that with an added API for report modes and for report handlers, which then means when we need to integrate with a different 3rd party observable service we just generally write one or two small code pieces.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QThus, I need to get 96gb of RAM as if I go lower than that I will face memory swapping from physical RAM to virtualized RAM which would then cut the SSD life expectancy in half.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QThus with those uses cases I need the memory footprints of VSCode, iOS Simulator, Android Simulator, and the VM memory footprint.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QUse Cases\nSince Apple solders SSDs and since SSDs degrade a lot if used for virtualized memory I need to state my use cases then use that to figure out my maximum RAM needed and maximum as those two items will be somewhat high in costs if I get it wrong.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QThus, with those uses cases I need the memory footprints of VSCode, iOS Simulator, Android Simulator, and the VM memory footprint.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QGeneral Purpose Computer vs Creative Purpose Computer\nIntel and AMD PCs generally are general purpose computers which when used in creative workflows one has to keep in mind the amount of RAM to add and the GPU upgrade to get it to work for medium level creative workflows.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QApple went a different route in combining the graphics chip, neural engine chip, and the CPU chip on one SoC chip package with unified RAM for high memory speed throughput with both the CPU and the GPU.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QOkay, GUIs first started out with the Model-View-Controller application GUI architecture pattern.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QDirected acyclic graphs are always found in a tree.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QIn imperative programming, namely OOP, setting a equals b plus c would mean that a is being assigned the result of b plus c in the instance the expression is evaluated.\\E$"}
+{"rule":"EN_A_VS_AN","sentence":"^\\QIn imperative programming, namely OOP, setting a equals b plus c would mean that a is being assigned the result of b plus c in the instance the expression is evaluated.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QWhat Is Reactive Programming\nReactive programming has two things.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe Two Reactive Data Flows In The Flutter Framework\nIn React Native for web, the implementation has a virtual DOM that then is used to figure out what actual parts of the DOM will be changed.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QAnd the mobile implementation is similar, except it's the screen UI tree instead.\\E$"}
+{"rule":"PUNCTUATION_PARAGRAPH_END","sentence":"^\\QJSON Encoding and Decoding\nUsing Freezed\nUsing BuiltValue\nUsing Equatable\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QUsing BuiltValue\nUsing BuiltValue often looks like this:\\E$"}
+{"rule":"ID_CASING","sentence":"^\\QSomething you should know about Flutter models as we do not use an entity base class but instead combine the entity and model together by sticking the id field in the model.\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QThe encode and decode JSON stuff was borrowed from a fork of the dart server package called aqueduct and the fork is called conduit-dart:\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QThe encode and decode JSON stuff was borrowed from a fork of the dart server package called aqueduct and the fork is called conduit-dart:\\E$"}
+{"rule":"ID_CASING","sentence":"^\\QSomething you should know about Flutter models as we do not use an entity base class but instead combine the entity and model together by sticking the id field in the model.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe encode and decode JSON stuff was borrowed from a fork of the dart server package called aqueduct, and the fork is called conduit-dart:\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QLong term the general idea would be to put all my asset caching code for images, fonts and rive assets together into one class that uses the AssetManifest hooks as I already put similar assets in their own subfolders inside the assets folder.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAdvance\nRecently, an AssetManifest class was included in Flutter stable:\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QAdvanced Canonical Layouts\nCanonical layouts in Material Design 3 call each screen, main and subScreen as panes:\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QBut note even though a fixed Pane is 360dp, IT IS ONLY SEEN on non-foldable devices in the multi-pane layout named split-pane.\\E$"}
+{"rule":"TO_DO_HYPHEN","sentence":"^\\QIt's in the custom widgets' folder of the todo app subfolder\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QIt's in the custom widgets' folder of the to-do app subfolder\\E$"}
+{"rule":"UP_COMPOUNDS","sentence":"^\\QThe first step is to detect the platform OS correctly so that we do not goof up setting the simulate OS fia the ThemeData.platform property in the Widget wrapper when we test widgets.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe rest is accomplished by modifying specific 3rd party packages and some useful utility classes and methods.\\E$"}
+{"rule":"UP_COMPOUNDS","sentence":"^\\QThe first step is to detect the platform OS correctly so that we do not goof up setting the simulated OS fia the ThemeData.platform property in the Widget wrapper when we test widgets.\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QThe first step is to detect the platform OS correctly so that we do not goof up setting the simulated OS via the ThemeData.platform property in the Widget wrapper when we test widgets.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\Q#### Because android was originally assumed in testing and platform adaptations came later, we need to use Theme.of(context).platform instead to detect the platform.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe rest is to set up a FoldObserver so that the right orientation for the app is set per the fold hinge and whether it's portrait or layout per the screen size.\\E$"}
+{"rule":"QUESTION_MARK","sentence":"^\\QWhat has changed from the adaptive scaffold implemented in the Flutter Adaptive Scaffold package is that I have set the bodyRatio to 1.0 and do include secondBody parameters.\\E$"}
+{"rule":"EN_SPECIFIC_CASE","sentence":"^\\QThoughts\nYou will find that you will end up implementing the canonical layouts, but you will have less to implement due to Microsoft's work in supporting Flutter on their surface duo devices.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QIt's in the custom widgets' folder of the to-do app subfolder.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QWith foldables we have nothing to indicate that a device has a fold if the fold is closed.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QMicrosoft solved this problem with their foldable surface devices by putting the division of labor in supporting adaptations by creating a two-pane layout that uses foldable hinge reading and screen size breakpoints to correctly display either a single pane or two panes, even for foldables.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAnd that is the way the adaptive scaffold in the package is implemented, using the adaptive layout class:\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QHow To Access Platform OS Detection That Integrates With Testing Simulating Platform Devices\nFirst, let me show you why through the ThemeData.platform property doc:\\E$"}
+{"rule":"UP_COMPOUNDS","sentence":"^\\QThe first step is to detect the platform OS correctly so that we do not goof up setting the simulated OS via the ThemeData.platform property in the Widget wrapper when we test widgets.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QCanonical Layouts\nCanonical Layouts in Material Design 3 spec is described here:\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QCanonical Layouts\nCanonical Layouts in Material Design 3 spec is described here:\\E$"}
+{"rule":"UP_COMPOUNDS","sentence":"^\\QThe first step is to detect the platform OS correctly so that we do not goof up setting the simulated OS via the ThemeData.platform property in the Widget wrapper when we test widgets\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe rest is accomplished by modifying specific 3rd party packages and some useful utility classes and methods\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QThe rest is accomplished by modifying specific 3rd party packages and some useful utility classes and methods\nThe first step is to detect the platform OS correctly so that we do not goof up setting the simulated OS via the ThemeData.platform property in the Widget wrapper when we test widgets\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe rest is accomplished by modifying specific 3rd party packages and some useful utility classes and methods\nThe first step is to detect the platform OS correctly so that we do not goof up setting the simulated OS via the ThemeData.platform property in the Widget wrapper when we test widgets\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAnd that is the way the adaptive scaffold in the package is implemented, using the adaptive layout class\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\Q#### Because android was originally assumed in testing and platform adaptations came later, we need to use Theme.of(context).platform instead to detect the platform\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QMicrosoft solved this problem with their foldable surface devices by putting the division of labor in supporting adaptations by creating a two-pane layout that uses foldable hinge reading and screen size breakpoints to correctly display either a single pane or two panes, even for foldables\\E$"}
+{"rule":"REASON_WHY","sentence":"^\\QThe reason why has to do with how the Microsoft two-pane class from the dual screen package works in creating canonical layouts.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QA little different in that we have moved the mocking of the app API to the model level and away from the test level with the benefit of all the tests being integrated together in how the app API is mocked with reduces the boilerplate for each test.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QMove Mocking To The Flutter Data Class For Less Test Code\nsubtitle: If I was an GDE, this new way of creating Flutter data classes would be taught by me as it integrates with a new strategy of integrating all flutter testing strategies together with a new storyboarding way Google is moving towards.\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QTo account for the define variables passed via the JSON define file per build variant, the getters are set this way in the EnvironmentConfig class:\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QTo account for the define variables passed via the JSON define file per build variant, the getters are set this way in the EnvironmentConfig class:\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QYou need to use a PSD or krz template, these are in the app artwork subfolder:\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QNow, we need to set up our icon files that are used to generate the app icon launcher files.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QThe code and art work files can be found in the app icon demo subfolder of the skeleton app folder in this repo:\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QFlutter DevOPS Approach To App Icons\nsubtitle: This is how to automate the app icon generation for Flutter Apps.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QGeneration Code Metrics Report\nNow, that dart code linter is set up, create a reports' folder in your project, and then you can type this in the terminal to generate the metrics report:\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QSLOC is typically used to predict the amount of effort that will be required to develop a program, as well as to estimate programming productivity or maintainability once the software is produced.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe maintainability index is calculated as a factored formula consisting of Source Lines Of Code, Cyclomatic Complexity and Halstead Volume.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHalstead Volume: The Halstead metrics are based on the numbers of operators and operands.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAnd, lint can be just checking code for soft-errors; and it can also do source code metrics that can then be used to make architecture decisions.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QGenerating The CustomAppLocalization Class\nNow that the ARB files are created, we just run the intl utils generate tool to generate the CustomAppLocalizations class that also creates embedded message methods as well.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QThe whole reason why there is a l10n YAML file configuration is that it is run each time in the build process, as the AppLocalizations Class generated to use is in fact put in the dot-dart-tool folder, which in fact is git-ignored.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QOnce cmdline tools is downloaded from the Android Studio download page:\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QCan you pay for your Flutter App creator studio equipment and Apple's profit at the same time?\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QFlutter Docs confuses most people as it talks about the gen_l10n tool along with the intl tools in the same damn page as for most of us gen_l10n is actually somewhat legacy as no one chooses to do it that way anymore as we all want smart placeholder superpowers!\\E$"}
+{"rule":"MAC_OS","sentence":"^\\QI use an iOS squircle shape for the platforms of iOS, MacOS, Web, Windows, and Linux.\\E$"}
+{"rule":"WORD_CONTAINS_UNDERSCORE","sentence":"^\\QThe templates for the shapes are in the app_artwork subfolder of the launcher icons demo project.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QBecause the flutter framework has the Skia graphics library from Android native; goldens testing is executed by drawing the screen off-screen.\\E$"}
+{"rule":"QUESTION_MARK","sentence":"^\\QWhy Do We Need Observable Logging\nObservable logging is always app on logging that often is reported to a third party observable logging service.\\E$"}
+{"rule":"SENTENCE_FRAGMENT","sentence":"^\\QSo if I change the level of the logger than it will be logger.\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QThe FlutterError onError method and the PlatformDispatcher.instance onError method server to catch both errors and framework errors.\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QThe FlutterError onError method and the PlatformDispatcher.instance onError method server to catch both errors and framework errors.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QUsing The Catcher Two Package\nThe author of the original Catcher package is no longer updating the package, so a flutter community member stepped up and soft forked it into Catcher2 package:\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QNote, that localization is defined separately in addition to the main app content.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QAnd, the benefit of getting a pretty full page exception report with accept and cancel buttons.\\E$"}
+{"rule":"HAVE_BIN","sentence":"^\\QIt has bin component beyond the package so one has to put the dependency in the dev dependencies block and in the terminal type the below command set and once the dcl settings is put in the analysis options file then in the terminal you will type the below command set.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QIt has BIN component beyond the package, so one has to put the dependency in the dev dependencies block and in the terminal type the below command set and once the DCL settings is put in the analysis options file then in the terminal you will type the below command set.\\E$"}
+{"rule":"SENTENCE_FRAGMENT","sentence":"^\\QWhile the Dart Code Linter package implements code metrics to measures to be used in architecture code choice decisions.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QFlutter Static Code Analysis Tools To Pair For DevOPS\nsubtitle: For devOPS you should pair both lints and code metrics together as part of your flutter app DevOps.\\E$"}
+{"rule":"REASON_WHY","sentence":"^\\QThat is the reason why when under stress you still get the same alertness boost that you would when not stressed, as under stress you have high noradrenalin (norepinephrine) via the dopamine receptor 2.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThat means we need to limit so that the offscreen items are not animated, hence the AnimatioLimiter class in the Flutter Staggered Animations package:\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QLet's start with the special case of ListView as have scrollable container which only the stuff on screen is rendered.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QLet's start with the special case of ListView as have scrollable container which only the stuff on screen is rendered.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThus, it makes sense to show you how the skeleton staggered animation was implemented for containers including Listview.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QHow To Implement Staggered Animation\nThe staggered skeleton loading is called stagger in the Material Design 3 spec:\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QThe included animation classes then use that Animation Configurator class, for example the Fade In Animation class:\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QSo the Animation Configuration class to wrap the containers is:\\E$"}
+{"rule":"BEEN_PART_AGREEMENT","sentence":"^\\QNew in Flutter 3 is sliver axis groups to allow us to group dissimilar slivers together.\\E$"}
+{"rule":"BEEN_PART_AGREEMENT","sentence":"^\\QNew in Flutter 3 is sliver axis groups to allow us to group dissimilar slivers together.\\E$"}
+{"rule":"BEEN_PART_AGREEMENT","sentence":"^\\QNew in Flutter 3 is sliver axis groups to allow us to group dissimilar slivers together.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QThe UX process is where we determine what the entry points for the UI should be by somewhat using every UX tool, including asking users how they approach the group of tasks as activity that we hope to make into a mobile app.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThis is the step where the data class model is modified to integrate with storyboarding and Behavioral Driven Design testing.\\E$"}
+{"rule":"REPEATED_VERBS","sentence":"^\\QOkay, the example is an app of users posting posts.\\E$"}
+{"rule":"REPEATED_VERBS","sentence":"^\\QOkay, the example is an app of users posting posts.\\E$"}
+{"rule":"THREE_NN","sentence":"^\\QInstead to make a data class fully immutable including implementing the value object type by changing the equality operator expression for the data class, we use one of these packages to automatically create such data classes:\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QSeveral widgets such as Rows and Columns have the flex widget as their basis in controlling the axis along which children are placed.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe story of mid-phase to final tuning in the Material Design specification cycle is all about introduce something new that not only is in the SDK but forces us to change some other UX approach in a major way,\nSuch is the introduction of Canonical Layouts as it not only changes how we implement the material design adaptive scaffold UX patterns but also how surface containers are now implemented, as now they contain a choice of color roles.\\E$"}
+{"rule":"IN_A_X_MANNER","sentence":"^\\QThe story of mid-phase to final tuning in the Material Design specification cycle is all about introduce something new that not only is in the SDK but forces us to change some other UX approach in a major way,\nSuch is the introduction of Canonical Layouts as it not only changes how we implement the material design adaptive scaffold UX patterns but also how surface containers are now implemented, as now they contain a choice of color roles.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QWhen the Material Design 3 specification was changed to include Canonical Layouts to adjust to foldables and big screens, we needed more Surface Color Roles in order to denote the color roles of the content panes in the canonical layouts.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QThe Model We Need\nSince the new Surface Color Roles are six and mapped to the elevated tint colors, then an enum stating the syntax names is needed:\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QSince we now have the ColorScheme generation configured; next up is to configure how the component themes are generated.\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QIn FlexColorScheme component themes are nicknamed sub themes and the way they are configured is via the FlexSubThemesData class.\\E$"}
+{"rule":"PRP_THE","sentence":"^\\QThis is why I state that you the flutter app designer should never-ever buy into that extra abstraction writing of use-case, repository, and datasource classes that both Domain Driven Design and Clean Architecture call for as it is not freaking needed!\\E$"}
+{"rule":"PRP_THE","sentence":"^\\QThis is why I state that you the flutter app designer should never-ever buy into that extra abstraction writing of use-case, repository, and datasource classes that both Domain Driven Design and Clean Architecture call for as it is not freaking needed!\\E$"}
+{"rule":"PASSIVE_VOICE","sentence":"^\\QAnd, not every plugin is endorsed by Google, like go-router.\\E$"}
+{"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QAnother direct class in writing the canonical layout is the Canonical Sized Context extensions.\\E$"}
+{"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QAnother direct class in writing the canonical layout is the Canonical Sized Context extensions.\\E$"}
+{"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QAnother direct class in writing the canonical layout is the canonical sized Context extensions.\\E$"}

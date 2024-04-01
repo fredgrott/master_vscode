@@ -1,0 +1,18 @@
+{
+  "ZK Atomic Template": {
+    "scope": "markdown",
+    "prefix": "zkatomic",
+    "description": "Include tags and references for the atomic post",
+    "body": [
+      "---",
+      "type: atomic-note",
+      "title: ",
+      "keywords: ",
+      "tags: atomic-note, ",
+      "---",
+      
+    ]
+
+  }
+
+}

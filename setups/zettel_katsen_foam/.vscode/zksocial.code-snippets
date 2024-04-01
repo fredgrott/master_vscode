@@ -1,0 +1,17 @@
+{
+  "ZK Social Template": {
+    "scope": "markdown",
+    "prefix": "zksocial",
+    "description": "Include tags and references for the social post",
+    "body": [
+      "---",
+      "type: social-media-note",
+      "title: ",
+      "keywords: ",
+      "tags: social-media-note, ",
+      "---",
+          ]
+
+  }
+
+}

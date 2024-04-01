@@ -1,0 +1,17 @@
+{
+  "ZK Article Template": {
+    "scope": "markdown",
+    "prefix": "zkarticle",
+    "description": "Include tags and references for the article post",
+    "body": [
+      "---",
+      "type: article-note",
+      "title: ",
+      "keywords: ",
+      "tags: article-note, ",
+      "---",
+          ]
+
+  }
+
+}

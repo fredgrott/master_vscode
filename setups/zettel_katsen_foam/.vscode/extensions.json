@@ -1,0 +1,153 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    // Foam's own extension
+    "foam.foam-vscode",
+
+    // Tons of markdown goodies (lists, tables of content, so much more)
+    "yzhang.markdown-all-in-one",
+
+    // Image-pasting for markdown
+    "mushan.vscode-paste-image"
+
+
+     // Foam docs and template forget these plugins:
+     // Markdown Links
+     "tchayen.markdown-links"
+
+     //--End of Foam direct extensions
+
+     // Markdown Accessories
+     // markdown lint
+     // https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+     "DavidAnson.vscode-markdownlint",
+
+     
+     // GitHub Markdown Preview
+     // https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview
+     "bierner.github-markdown-preview",
+
+    // Themes, Noctis
+   // https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis
+   "liviuschera.noctis",
+
+
+   "danilegjackson.auto-dark-mode-windows",
+
+
+
+
+
+
+
+
+     //--End of Markdown Accessories
+
+     // Anki
+     // Anki for VSCode
+     // https://marketplace.visualstudio.com/items?itemName=jasew.anki
+     "jasew.anki",
+
+     //-End of Anki
+
+     // Kanbn
+     // Kanbn
+     // https://marketplace.visualstudio.com/items?itemName=samgiz.vscode-kanbn-boards
+     "samgiz.vscode-kanbn-boards",
+     //--End of Kanbn
+
+     // VSCode Customizations
+     // word count
+     // https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount
+     "ms-vscode.wordcount",
+
+     // character count
+     // https://marketplace.visualstudio.com/items?itemName=stevensona.character-count
+     "stevensona.character-count",
+
+    // Read Time
+    // https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time
+     "johnpapa.read-time",
+
+    // LTex Spelling
+    // fork of LanguageTool and replaces LanguageTool
+    // https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex
+    "valentjn.vscode-ltex",
+
+    // LanguageTool Linter
+    // https://marketplace.visualstudio.com/items?itemName=davidlday.languagetool-linter
+    "davidlday.languagetool-linter"
+
+    // Material Product Icons Theme
+    // https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons
+    "PKief.material-product-icons",
+
+    // Regex lens
+    // https://marketplace.visualstudio.com/items?itemName=chrmarti.regex
+    "chrmarti.regex",
+
+    // GitLens Insiders
+    // GitLens+ Free plan
+    // https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+    "eamodio.gitlens",
+
+    // VersionLens
+    // https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
+    "pflannery.vscode-versionlens",
+
+    
+    // File Icon theme
+    // VSCode Icons
+    // https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+    "vscode-icons-team.vscode-icons",
+
+    
+
+    // Prettier
+    // https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+    "esbenp.prettier-vscode",
+
+    
+        
+    // Auto-Save on Window Change
+    // https://marketplace.visualstudio.com/items?itemName=mcright.auto-save
+    "mcright.auto-save",
+
+    // Better Comments
+    // https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+    "aaron-bond.better-comments",
+    
+    // MetaGo
+    // https://marketplace.visualstudio.com/items?itemName=metaseed.metago
+    "metaseed.metago",
+
+    // Rewrap
+    // https://marketplace.visualstudio.com/items?itemName=stkb.rewrap
+    "stkb.rewrap",
+
+    // Snippet Manager
+    // https://marketplace.visualstudio.com/items?itemName=zjffun.snippetsmanager
+    "zjffun.snippetsmanager",
+
+    // Multiple Clipboards
+    // https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip
+    "slevesque.vscode-multiclip"
+
+    // Explicit Folding
+    // https://marketplace.visualstudio.com/items?itemName=zokugun.explicit-folding
+    "zokugun.explicit-folding"
+
+    
+   // Todo Tree
+   // https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+   "Gruntfuggly.todo-tree"
+
+
+
+
+
+     //--End of VSCode Customizations
+
+  ]
+}
