@@ -11,7 +11,7 @@ While I work on writing books you can check out my vscode setups of:
 As things progress I will fill this out with guides, etc.
 
 
-## Sbstack Newsletter
+## Substack Newsletter
 
 I publish a substack newsletter on dart and flutter at:
 
