@@ -111,23 +111,41 @@
     // https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip
     "slevesque.vscode-multiclip",
 
+//https://marketplace.visualstudio.com/items?itemName=danielgjackson.auto-dark-mode-windows
+    "danilegjackson.auto-dark-mode-windows",
+
+  //https://marketplace.visualstudio.com/items?itemName=ArthurLobo.easy-codesnap
+  "ArthurLobo.easy-codesnap",
+
+  //https://marketplace.visualstudio.com/items?itemName=bierner.docs-view
+  "bierner.docs-view",
+
+   //https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+   "GitHub.vscode-pull-request-github",
+
+   //https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces
+   "GitHUB.codespaces",
+
+    //https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+    "mhutchie.git-graph",
+
+   //https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+   "donjayamanne.githistory",
+
+    //https://marketplace.visualstudio.com/items?itemName=solomonkinard.git-blame
+    "solomonkinard.git-blame"
+
+
     
     
 
     //--End of VSCode Customizations
 
 
-    
+    //https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
 "asciidoctor.asciidoctor-vscode",   
    
    
    
-    
-    
-
-
-   
-  "danilegjackson.auto-dark-mode-windows",
-
   ]
 }

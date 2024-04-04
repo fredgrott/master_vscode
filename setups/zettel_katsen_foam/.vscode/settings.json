@@ -601,6 +601,50 @@
      "workbench.colorTheme": "Noctis",
 
 
+//Codesnap
+ //"easy-condesnap.backgroundColor": "",
+ //"easy-codesnap.boxShadow": "",
+ "easy-codesnap.conainerPadding": "15",
+ "easy-codesnap.roundedCorners": true,
+ "easy-codesnap.showWindowControls": true,
+ "easy-codesnap.showWindowTitle": true,
+ "easy-codesnap.windowTitleTemplate": "{workspace}-{filename}",
+ "easy-codesnap.showLineNumbers": true,
+ "easy-codesnap.realLineNumbers": true,
+ "easy-codesnap.transparentBackground": true,
+ "easy-codesnap.target": "window",
+ "easy-codesnap.windowStyle": "macos",
+ "easy-codesnap.shutterAction": "save",
+ "easy-cdesnap.saveFormat": "png",
+ "easy-codesnap.enableResizing": true,
+ "easy-codesnap.roundingLevel": 1,
+ // for container only
+ //"easy-codesnap.aspect-ratio":
+ "easy-codesnap.lockOnOpen": true,
+ "easy-codesnap.linkOnOpen": true,
+
+ //docs view
+//https://marketplace.visualstudio.com/items?itemName=bierner.docs-view
+ "docsView.documentationView.updateMode": "live",
+
+"githubPullRequests.queries": [
+	{
+		"label": "Waiting For My Review",
+		"query": "is:open review-requested:${user}"
+	},
+	{
+		"label": "Assigned To Me",
+		"query": "is:open assignee:${user}"
+	},
+	{
+		"label": "Created By Me",
+		"query": "is:open author:${user}"
+	},
+	{
+		"label": "Mentioned Me",
+		"query": "is:open mentions:${user}"
+	}
+]
 
 
 
