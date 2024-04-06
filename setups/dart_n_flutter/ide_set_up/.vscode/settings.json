@@ -5,10 +5,7 @@
 
   // VSCode Core Settings
 
-  // As of end of May 2023 getting scheme errors on settings.json file
-  // temp fix per https://github.com/microsoft/tsdoc/issues/253
-  "json.schemaDownload.enable": true,
-
+  
   
 
 
@@ -153,7 +150,8 @@
   "markdown.styles": [
     "https://use.fontawesome.com/releases/v5.7.1/css/all.css"
   ],
-  "markdown-preview-github-styles.colorTheme": "light",
+  "markdown-preview-github-styles.lightTheme": "light+high+_contrast",
+  "markdown-previe-github-styles.darkTheme": "dark_high_contest",
   //--End of GitHub Markdown preview settings for Foam and
   //  VSCode core settings
 
@@ -167,7 +165,7 @@
 
   // VSCode core settings, LTEx
   // Replaces languagetool
-  // https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex
+  // https://marketplace.visualstudio.com/items?itemName=neo-ltex.ltex
   "ltex.enabled": ["latex", "markdown"],
   "ltex.checkFrequency": "manual",
   "ltex.additionalRules.enablePickyRules": true,
@@ -393,7 +391,11 @@
 		"label": "Mentioned Me",
 		"query": "is:open mentions:${user}"
 	}
-]
+],
+
+"licenser.license": "BSD3",
+"licenser.author": "Fredrick Allan Hrott",
+
 
 
   // Flutter Specifc Settings

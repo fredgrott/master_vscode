@@ -5,11 +5,7 @@
 
   // VSCode Core Settings
 
-  // As of end of May 2023 getting scheme errors on settings.json file
-  // temp fix per https://github.com/microsoft/tsdoc/issues/253
-  "json.schemaDownload.enable": true,
-
-  
+    
 
 
   "markdown.preview.breaks": true,
@@ -153,7 +149,9 @@
   "markdown.styles": [
     "https://use.fontawesome.com/releases/v5.7.1/css/all.css"
   ],
-  "markdown-preview-github-styles.colorTheme": "light",
+"markdown-preview-github-styles.lightTheme": "light+high+_contrast",
+  "markdown-previe-github-styles.darkTheme": "dark_high_contest",
+"markdown-preview-github-styles.colorTheme": "light",
   //--End of GitHub Markdown preview settings for Foam and
   //  VSCode core settings
 
@@ -428,6 +426,31 @@
  //docs view
 //https://marketplace.visualstudio.com/items?itemName=bierner.docs-view
  "docsView.documentationView.updateMode": "live",
+
+"githubPullRequests.queries": [
+	{
+		"label": "Waiting For My Review",
+		"query": "is:open review-requested:${user}"
+	},
+	{
+		"label": "Assigned To Me",
+		"query": "is:open assignee:${user}"
+	},
+	{
+		"label": "Created By Me",
+		"query": "is:open author:${user}"
+	},
+	{
+		"label": "Mentioned Me",
+		"query": "is:open mentions:${user}"
+	}
+],
+
+"licenser.license": "BSD3",
+"licenser.author": "Fredrick Allan Hrott",
+
+
+
 
 
   }

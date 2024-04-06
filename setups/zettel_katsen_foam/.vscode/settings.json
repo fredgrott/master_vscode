@@ -3,11 +3,7 @@
   // non-global are designated via the document language selector
   // 
 
-  // As of end of May 2023 getting scheme errors on settings.json file
-  // temp fix per https://github.com/microsoft/tsdoc/issues/253
-  "json.schemaDownload.enable": true,
-
-
+  
 
   // outline is used instead of minimap
   "editor.minimap.enabled": false,
@@ -202,7 +198,9 @@
   "markdown.styles": [
     "https://use.fontawesome.com/releases/v5.7.1/css/all.css"
   ],
-  "markdown-preview-github-styles.colorTheme": "light",
+  "markdown-preview-github-styles.lightTheme": "light+high+_contrast",
+  "markdown-previe-github-styles.darkTheme": "dark_high_contest",
+
   //--End of GitHub Markdown preview settings for Foam and
   //  VSCode core settings
 
@@ -622,6 +620,10 @@
  //"easy-codesnap.aspect-ratio":
  "easy-codesnap.lockOnOpen": true,
  "easy-codesnap.linkOnOpen": true,
+
+"licenser.license": "BSD3",
+"licenser.author": "Fredrick Allan Hrott",
+
 
  //docs view
 //https://marketplace.visualstudio.com/items?itemName=bierner.docs-view

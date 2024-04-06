@@ -18,6 +18,9 @@
      // https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview
      "bierner.github-markdown-preview",
 
+    // https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
+    "bierner.markdown-preview-github-styles",
+
      // VSCode Customizations
      // word count
      // https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount
@@ -38,8 +41,9 @@
 
     // LTex Spelling
     // fork of LanguageTool and replaces LanguageTool
-    // https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex
-    "valentjn.vscode-ltex",
+    // https://marketplace.visualstudio.com/items?itemName=neo-ltex.ltex
+    "neo.vscode-ltex",
+
 
     // LanguageTool Linter
     // https://marketplace.visualstudio.com/items?itemName=davidlday.languagetool-linter
@@ -136,7 +140,10 @@
     "solomonkinard.git-blame"
 
 
-    
+    // Licenser
+   // https://marketplace.visualstudio.com/items?itemName=ymotongpoo.licenser
+   "ymotongpoo.licenser",
+
     
 
     //--End of VSCode Customizations
